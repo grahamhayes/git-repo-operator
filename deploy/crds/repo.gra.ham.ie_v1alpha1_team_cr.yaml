@@ -1,0 +1,7 @@
+apiVersion: repo.gra.ham.ie/v1alpha1
+kind: Team
+metadata:
+  name: example-team
+spec:
+  # Add fields here
+  size: 3

@@ -1,0 +1,9 @@
+apiVersion: repo.gra.ham.ie/v1alpha1
+kind: Repo
+metadata:
+  name: example-repo
+spec:
+  provider: GitHub
+  server: github.com
+  organisation: project-c12
+  repository: example-crd
