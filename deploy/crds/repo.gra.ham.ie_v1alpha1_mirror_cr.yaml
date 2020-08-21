@@ -1,0 +1,6 @@
+apiVersion: repo.gra.ham.ie/v1alpha1
+kind: Mirror
+metadata:
+  name: example-mirror
+spec:
+  repository: https://github.com/grahamhayes/azure-aci

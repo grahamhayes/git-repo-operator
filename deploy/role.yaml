@@ -71,6 +71,7 @@ rules:
   resources:
   - '*'
   - teams
+  - mirrors
   verbs:
   - create
   - delete
